@@ -1,0 +1,1 @@
+jeżeli polecenie "./opowiesc.sh" nie działa (permission denied), proszę o wpisanie komendy "chmod 755 opowiesc.sh", a następnie "./opowiesc.sh".
